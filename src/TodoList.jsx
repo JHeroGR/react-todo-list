@@ -52,7 +52,14 @@ function TodoList() {
             <h3>Tasks</h3>
             
             <ul>
-                <li></li>
+                {todos.map((item, todos) => (
+                    <li key={index}>
+                        <span className='text'>{item}</span>
+                        <button className='delete-button' onClick={deleteTask(index)}>Delete</button>
+                        <button className='move-up-button' onClick={moveTaskUp(index)}>Move up</button>
+                        <button className='move-down-button' onClick={moveTaskDown(index)}>Move down</button>
+                    </li>
+                ))}
             </ul>
         </div>
     );
