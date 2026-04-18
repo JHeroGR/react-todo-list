@@ -1,6 +1,6 @@
 # 📝 React Todo List
 
-This is a ToDo List built with ReactJS, this provides a minimal setup to get React working in Vite with HMR and some ESLint rules. This is a ToDo List web application! This project is a starter project to begin working on the ReactJS related projects to learn and expand on JS Frameworks.
+This is a ToDo List built with ReactJS. This is a ToDo List web application! This project is a starter project to begin working on the ReactJS related projects to learn and expand on JS Frameworks.
 
 ---
 
