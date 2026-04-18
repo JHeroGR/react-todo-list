@@ -1,17 +1,24 @@
-# React + Vite
+# 📝 React Todo List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a ToDo List built with ReactJS, this provides a minimal setup to get React working in Vite with HMR and some ESLint rules. This is a ToDo List web application! This project is a starter project to begin working on the ReactJS related projects to learn and expand on JS Frameworks.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
+- Basic UI CRUD Features to create Tasks and add them to the list.
+- Moves Tasks based off priority with moving clicks.
+- Delete Tasks to remove unwanted items from your list instantly.
 
-## React Compiler
+## 🛠️ Tech Stack
+- **HTML5**
+- **CSS3**
+- **ReactJS**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+--
 
-## Expanding the ESLint configuration
+## 🧩 Future Enhancements
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# react-todo-list
+Currently this application is in it's starting mode and currently seeing new features to add to make it a more functional full stack web application.
+
+## 🙌 Acknowledgements
+- Web Application inspired by YouTube tutorials
