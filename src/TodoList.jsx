@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import DonateWidget from './components/DonateWidget';
 
 function TodoList() {
     const [todos, setTodos] = useState(['feed the dog', 'feed the cat', 'feed the bat']);
@@ -48,6 +49,8 @@ function TodoList() {
     return(
         <div className="todo-list">
             <h1>Todo List</h1>
+
+            <DonateWidget />
 
             <h3 className="alert-text">Please enter a task.</h3>
 
